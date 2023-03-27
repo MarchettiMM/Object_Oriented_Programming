@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\bin\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.exe
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\bin\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.deps.json
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\bin\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\bin\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\bin\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.dll
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\bin\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.pdb
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\obj\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\obj\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\obj\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\obj\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\obj\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\obj\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.dll
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\obj\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.pdb
+C:\Users\mathe\OneDrive\Documentos\RepositoriosGit\Aulas_e_Exercicios_POO\Aulas_e_Exercicios_POO\obj\Debug\netcoreapp3.1\Aulas_e_Exercicios_POO.genruntimeconfig.cache
